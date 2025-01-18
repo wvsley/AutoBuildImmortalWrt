@@ -55,6 +55,7 @@ PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
+ath11k-firmware-wcn6855 quectel-cm kmod-ath11k-pci luci-i18n-unbound-zh-cn luci-i18n-sms-tool-js-zh-cn luci-i18n-modemband-zh-cn luci-i18n-battstatus-zh-cn luci-i18n-3ginfo-lite-zh-cn luci-proto-mbim luci-proto-ncm luci-proto-quectel luci-theme-argon unbound-control-setup luci-app-openclash
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"
 echo "$PACKAGES"
