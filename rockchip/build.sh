@@ -51,8 +51,6 @@ PACKAGES="$PACKAGES luci-i18n-openvpn-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-aria2-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-rclone-zh-cn"
-PACKAGES="$PACKAGES luci-app-fileassistant"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
